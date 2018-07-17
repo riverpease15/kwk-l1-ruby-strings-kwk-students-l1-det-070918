@@ -1,0 +1,77 @@
+#top {
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+  font-size: 150%;
+  color: white;
+  background: url(https://occ-0-2433-1001.1.nflxso.net/art/46982/ee6d63bc72c57d227775bd41b1aff16392f46982.jpg);
+  opacity: 0.8;
+  filter: alpha(opacity=50);
+}
+
+p {
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 120%;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+#list {
+  background-image: url(http://www.onlygfx.com/wp-content/uploads/2017/04/torn-old-paper-banner-10-1024x272.png);
+  opacity: 0.8;
+  background-size: cover;
+  filter: alpha(opacity=50);
+  font-family: "Courier New", Courier, Monospace;
+  padding-left: 30px;
+}
+
+hr2 {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+#show {
+  background-image: url(https://media.giphy.com/media/yr6mgdF0b9arC/giphy.gif);
+  background-size: cover;
+  color: white;
+  text-align: center;
+  font-family: "Courier New", Courier, Monospace;
+  font-size: 100%;
+  opacity: 0.8;
+  filter: alpha(opacity=50);
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+p5 {
+  font-family: "Courier New", Courier, Monospace;
+}
+
+p6 {
+  font-family: "Courier New", Courier, Monospace;
+}
+
+p7 {
+  font-family: "Courier New", Courier, Monospace;
+}
+
+#books {
+  background: url(http://38.media.tumblr.com/2ad0e1a1dbb9a12d69800d74971f18ac/tumblr_n0tnhd3AV41qfoqhmo1_500.gif);
+  height:600px;
+  width: 100%;
+  background-size: cover;
+  filter: alpha(opacity=50);
+  padding-left: -10px;
+}
+
